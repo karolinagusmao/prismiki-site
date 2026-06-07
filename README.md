@@ -5,7 +5,7 @@ Site institucional responsivo de uma página para apresentar serviços e gerar p
 ## Principais recursos
 
 - buffet, drinks, bar para eventos e serviços personalizados;
-- WhatsApp oficial configurado: `5511975438820`;
+- WhatsApp oficial configurado;
 - formulário que cria uma mensagem organizada;
 - galeria com dez imagens;
 - troca automática a cada três segundos;
@@ -13,7 +13,7 @@ Site institucional responsivo de uma página para apresentar serviços e gerar p
 - ampliação de imagens em modal;
 - layout responsivo e acessível;
 - SEO básico e animações leves;
-- crédito profissional da KG Technology com acesso direto ao WhatsApp `5561981926392`.
+- crédito profissional da KG Technology com acesso direto ao WhatsApp.
 
 ## Estrutura
 
@@ -61,5 +61,4 @@ Edite `assets/js/config.js` para trocar WhatsApp, e-mail ou Instagram.
 
 - instalação: `docs/INSTALACAO.md`;
 - visão completa: `docs/DOCUMENTACAO.md`;
-- checklist: `docs/CHECKLIST-PUBLICACAO.md`;
-- prompt-base: `docs/PROMPT-PROJETO.md`.
+
